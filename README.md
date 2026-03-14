@@ -23,3 +23,9 @@ cd six-seven-charge-tgbot
 - Put YOUR chat id into CHAT_ID
 - 🤖Start YOUR bot 🤖
 - 🔋And wait till your laptop battery will be at 67 per cent 🔋
+# FAQ
+> What to do if I am a **microslop windows** user? ✡️
+>> I alreasy pulled [my python port](https://github.com/forge-sa/six-seven-charge-tgbot-win) 🐍
+
+> Okay, what about Mac? 🍏
+>> In progress rn, but U can support me by giving project a star 🌟
