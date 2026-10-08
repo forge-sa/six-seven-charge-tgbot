@@ -28,4 +28,4 @@ cd six-seven-charge-tgbot
 >> I alreasy pulled [my python port](https://github.com/forge-sa/six-seven-charge-tgbot-win) 🐍
 
 > Okay, what about Mac? 🍏
->> In progress rn, but U can support me by giving project a star 🌟
+>> It is ported already [here](https://github.com/forge-sa/six-seven-charge-tgbot-mac)
